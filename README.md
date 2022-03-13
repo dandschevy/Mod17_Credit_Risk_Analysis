@@ -24,4 +24,4 @@ Several models were used to evaluate credit risk.  Below are the models used and
 ![image](https://user-images.githubusercontent.com/90434559/158046791-2212d5d3-a66f-4efb-91f8-450665e04ba6.png)
 
 ## Summary
-Since credit risk can be difficult to predict, various models were used to see which would produce the most accurate result.  Based on the data, the Easy Ensemble method produced the highest rate of accuracy.  Additionally, the logistic modeling is not well suited for credit risk based on the scores presented.  Using ensemble learning models will produce the best result based on the current data collected.
+Since credit risk can be difficult to predict, various models were used to see which would produce the most accurate result.  Based on the data, the Easy Ensemble method produced the highest rate of accuracy.  Additionally, logistic regression is not well suited for credit risk based on the scores presented.  Using ensemble learning models will produce the best result based on the current data collected.
